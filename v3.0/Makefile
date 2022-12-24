@@ -1,4 +1,4 @@
-LIBRARY_DIR=$(HOME)/itensor3/itensor3
+LIBRARY_DIR=/Users/mocap/GitHub/ITensor/
 
 APP=oDMRG
 
